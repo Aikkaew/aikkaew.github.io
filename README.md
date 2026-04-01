@@ -27,3 +27,4 @@
 
 # Contact Info
 * [Web Page](https://aikkaew.github.io)
+* Phone no: 061-2345678
